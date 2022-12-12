@@ -1,0 +1,8 @@
+description: 'to sign the envs using keybase user'
+name: keybase-sign-envs
+outputs:
+  envsignned:
+    description: Store a base64 with the sign
+runs:
+  using: docker
+  image: Dockerfile
