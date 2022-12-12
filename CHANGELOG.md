@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.6.0...v0.7.0) (2022-12-12)
+
+
+### Features
+
+* beam with code by env ([70afbc6](https://github.com/JonDotsoy/keybase-bkp-envs/commit/70afbc6744a57e12d9ba752258d4415f20c0e033))
+
 ## [0.6.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.5.0...v0.6.0) (2022-12-12)
 
 
