@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.2.1...v0.3.0) (2022-12-12)
+
+
+### Features
+
+* logs output ([8d2b77f](https://github.com/JonDotsoy/keybase-bkp-envs/commit/8d2b77f39a1e31edb519d4b753c3fce3618c9d2e))
+
 ## [0.2.1](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.2.0...v0.2.1) (2022-12-12)
 
 
