@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.4.0...v0.5.0) (2022-12-12)
+
+
+### Features
+
+* encript with saltpack ([6b4faec](https://github.com/JonDotsoy/keybase-bkp-envs/commit/6b4faeccdc4ef2ab8b19686ad7d94be2462f74c5))
+
 ## [0.4.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.3.0...v0.4.0) (2022-12-12)
 
 
