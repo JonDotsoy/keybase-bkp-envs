@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.2.0...v0.2.1) (2022-12-12)
+
+
+### Bug Fixes
+
+* add executor to entrypoint ([135e4a4](https://github.com/JonDotsoy/keybase-bkp-envs/commit/135e4a4ffd27aad21b3acdf48490c14975c1e0d5))
+
 ## [0.2.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.1.0...v0.2.0) (2022-12-12)
 
 
