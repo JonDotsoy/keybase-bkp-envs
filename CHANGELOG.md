@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.3.0...v0.4.0) (2022-12-12)
+
+
+### Features
+
+* sign no self ([b03806d](https://github.com/JonDotsoy/keybase-bkp-envs/commit/b03806dcf353f7ec16a77f558d8650c872ec2e0d))
+
 ## [0.3.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.2.1...v0.3.0) (2022-12-12)
 
 
