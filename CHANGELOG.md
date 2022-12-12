@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.5.0...v0.6.0) (2022-12-12)
+
+
+### Features
+
+* integrate hyp ([4a4c2fe](https://github.com/JonDotsoy/keybase-bkp-envs/commit/4a4c2fe3edc5c2d26d150e6d8c499c7f2a981468))
+
 ## [0.5.0](https://github.com/JonDotsoy/keybase-bkp-envs/compare/v0.4.0...v0.5.0) (2022-12-12)
 
 
